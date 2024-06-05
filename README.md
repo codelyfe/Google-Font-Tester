@@ -12,3 +12,6 @@ You will need to goto Security Settings and allow app to be used on macOS.
 ## Preview
 
 ![YourMap Screenshot0](https://i.ibb.co/v4nx4CS/Screenshot-2024-06-05-at-9-44-59-AM.png)
+
+## Provides Style Sheet to use on your website
+![YourMap Screenshot0](https://i.ibb.co/TK3xFX1/Screenshot-06-05-2024-12-58-12.png)
