@@ -1,4 +1,4 @@
-# Google-Font-Tester
+# Google Font Tester
 Test Google Fonts using our APPs ( macOS and windowsOS)
 
 ![YourMap Logo](https://i.ibb.co/WFmg5bs/icon.png)
